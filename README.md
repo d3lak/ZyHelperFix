@@ -1,7 +1,7 @@
 # Important update
 KJ tries to prohibit the use of automation tools with THUD integration. So no warranty that this will last.
-This could break at any point in time, it is just a quick workaround.
-Also Sader macro has been added.
+This is just a bad workaround which i happened to find. This will most likely break once THUD update is necessary.
+Also Sader macro has been added. Use with ForceMove on Mousewheel for decent animation cancelling.
 Credits go to [ZyRaNex](https://github.com/ZyRaNex/) for creating this piece of software!
 
 # ZyHelper
@@ -11,7 +11,7 @@ Download at
 
 If you have questions, ask on Zy's [Discord](https://discord.gg/F8wcvzd), or me patrick#2194
 
-![ZyHelperBeta](https://i.imgur.com/0Kt4JSq.png)
+![ZyHelperBeta](https://i.imgur.com/rXbsHQW.png)
 
 # Install
 Put the ZyHelperBetaAdapter.cs file into \th\plugins\Zy in your TurboHUD folder and the .exe somewhere else.
@@ -32,6 +32,7 @@ Hexing Pants makes you move around while idle to always keep them up. For this y
 
 # Wiz macro:
 
+Now has custom delay. No implemented in config though.
 There are 3 hotkeys you need to use:
 
 - Macro button:
@@ -57,7 +58,6 @@ Sader macro is pretty straight forward. This automates the sader BK.\
 
 It keeps up your Fist of Heavens stacks and casts Heavens Fury when macro key is held down.\
 It always casts judgment/shield glare before the holy COE. For speeds, cast manually when engaging pack.\
-To use animation cancelling, just bind force move to Mouse3 (Mousewheel button).
 
 
 # other stuff 
