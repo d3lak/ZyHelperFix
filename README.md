@@ -4,10 +4,20 @@ This is just a bad workaround which i happened to find. This will most likely br
 Also Sader macro has been added. Use with ForceMove on Mousewheel for decent animation cancelling.
 Credits go to [ZyRaNex](https://github.com/ZyRaNex/) for creating this piece of software!
 
+Little hint for bazooka timings when being used to rider (at this point v2.0.1):
+type 1 = ~1217
+type 2 = ~1205
+type 3 = ~1240
+type 4 = ~1255
+type 5 = ~1270
+type 6 = ~1288
+
+I know those delays seem kinda odd, but there's other things to consider when calculating delay.
+
 # ZyHelper
 This programm automates button presses. \
 Download at
-[ZyHelperBeta](https://github.com/ZyRaNex/ZyHelper/releases) 
+[ZyHelperBeta](https://github.com/petikk/ZyHelperFix/releases) 
 
 If you have questions, ask on Zy's [Discord](https://discord.gg/F8wcvzd), or me patrick#2194
 
