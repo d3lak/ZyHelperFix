@@ -10,7 +10,7 @@ type 2 = ~1205\
 type 3 = ~1240\
 type 4 = ~1255\
 type 5 = ~1270\
-type 6 = ~1288\
+type 6 = ~1288
 
 I know those delays seem kinda odd, but there's other things to consider when calculating delay.
 
